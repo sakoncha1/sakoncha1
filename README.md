@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- ภาพ Header แบบ Anime Aesthetic สุดเท่ (คุณสามารถเปลี่ยนลิงก์ภาพเป็นภาพอื่นที่ชอบได้) -->
+  <!-- ภาพ Header แบบ Anime Aesthetic สุดเท่ -->
   <img src="https://i.pinimg.com/originals/18/84/c4/1884c47bbccb0051ed7100b462c151df.gif" alt="Anime coding aesthetic" width="100%" style="border-radius:15px;">
   
   <br/><br/>
@@ -32,24 +32,30 @@
 
 </td>
 <td width="50%" style="border: none;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakoncha1&repo=sakoncha1&theme=radical&hide_border=true" alt="Pinned Repo">
+  <!-- เปลี่ยนเป็นภาพเคลื่อนไหวเท่ๆ แทน Repo ที่เสีย -->
+  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Coding GIF" width="80%" style="border-radius: 10px;">
 </td>
 </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🏆 **ACHIEVEMENTS // GAMER CARDS**
-<p align="center">
-  <!-- ถ้วยรางวัล Github (Gamification) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sakoncha1&theme=radical&column=7&no-frame=true&no-bg=true&margin-w=15" alt="sakoncha1 trophies" />
-  </a>
-</p>
+### 📜 **QUEST LOG // ประวัติและประสบการณ์**
+> **[ 2024 - Present ]** 💻 **Leveling up as a Developer**
+> - 🚀 กำลังพัฒนาและสร้างสรรค์ผลงานโปรเจ็กต์ใหม่ๆ
+> - 🧠 โฟกัสการเรียนรู้ Modern Web Technologies
+>
+> **[ 2020 - 2024 ]** 🎓 **มหาวิทยาลัย / โรงเรียน (พิมพ์ชื่อสถาบันตรงนี้)**
+> - 📚 ศึกษาและเก็บเกี่ยวประสบการณ์ทางด้านเทคโนโลยี
+> - 🧩 เริ่มต้นเขียนโค้ด ทำโปรเจ็กต์ และเรียนรู้พื้นฐานการออกแบบ
+>
+> **[ The Beginning ]** 🌟 **"Hello World"**
+> - 💡 ก้าวแรกเข้าสู่โลกแห่งการเขียนโปรแกรมและการสร้างสรรค์สิ่งใหม่ๆ
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 💻 **TECH ARSENAL // LOADOUT**
 <p align="center">
-  <!-- ไอคอน Skill แบบใหม่ดู Minimal และคมชัด -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,mongodb,figma,vscode,git,docker&perline=12" />
   </a>
@@ -59,26 +65,7 @@
 
 ### 📈 **STATISTICS // LEADERBOARD**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakoncha1&show_icons=true&theme=radical&hide_border=true" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakoncha1&theme=radical&hide_border=true" width="48%">
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakoncha1&layout=compact&theme=radical&hide_border=true" width="48%">
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🐍 **GITHUB SNAKE (เกมงูกิน Contribution)**
-<!-- ส่วนนี้ถ้าจะให้งูขยับต้องตั้งค่า GitHub Actions! -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakoncha1/sakoncha1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakoncha1/sakoncha1/output/github-contribution-grid-snake.svg">
-    <!-- ภาพ Placeholder ชั่วคราว -->
-    <img alt="github contribution grid snake animation" src="https://via.placeholder.com/800x150/0D1117/00FFFF?text=Setup+Github+Actions+to+see+the+Snake!">
-  </picture>
 </div>
 
 <br/>
