@@ -7,8 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=sakoncha1&color=blue&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Visits" />
 </p>
 
-<!-- รูปแมว Pixel นอนพิมพ์คอมแบบที่ 2 -->
-<img src="https://media.tenor.com/bZeKhuR8-XAAAAAC/cat-typing.gif" width="150" alt="pixel cat" />
+<!-- รูปแมว Bongo Cat (ดึงจากเซิร์ฟเวอร์ GitHub โดยตรง ไม่โดนบล็อกแน่นอน 100%) -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/bongo-cat-typing.gif" width="150" alt="typing cat" />
 
 <p>meow ♡</p>
 <p>Be welcome</p>
@@ -46,7 +46,7 @@
 
 <br>
 
-<!-- ปุ่มโซเชียลมีเดีย (อย่าลืมเปลี่ยน Link ใน href="#" เป็นของตัวเองด้วยนะครับ) -->
+<!-- ปุ่มโซเชียลมีเดีย -->
 <p>
   <a href="#">
     <img src="https://img.shields.io/badge/GMAIL-010409?style=for-the-badge&logo=gmail&logoColor=white&labelColor=010409" />
