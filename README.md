@@ -30,7 +30,7 @@
 
 <!-- สถิติ Streak โทนสีฟ้า -->
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakoncha1&background=0D1117&border=38bdf8&title=38bdf8&text=ffffff&dates=c9d1d9&fire=38bdf8" height="170" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakoncha1&theme=dark&background=0D1117&border=38bdf8&stroke=38bdf8&ring=21262d&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=ffffff&dates=c9d1d9" height="170" alt="Streak Stats" />
 </p>
 
 <br>
