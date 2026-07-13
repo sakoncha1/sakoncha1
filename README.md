@@ -5,10 +5,10 @@
 
 <br>
 
-<!-- ลูกเล่นข้อความพิมพ์ดีดอัตโนมัติ สีฟ้าไซอัน -->
+<!-- ลูกเล่นข้อความพิมพ์ดีดอัตโนมัติ สีฟ้าไซอัน (แก้ URL ให้ทำงาน 100%) -->
 <p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Olá,+meu+nome+é+Sakoncha+!;System+Analyst;Welcome+to+my+GitHub+Profile+♡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Ola,+meu+nome+e+Sakoncha!;System+Analyst;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,12 +28,7 @@
 
 <br><br>
 
-<!-- สถิติ GitHub (กรอบและไอคอนสีชมพู/ฟ้า Neon) -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sakoncha1&show_icons=true&bg_color=0D0D0D&border_color=FF007F&title_color=00FFFF&text_color=FFFFFF&icon_color=FF007F&cache_seconds=86400" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakoncha1&layout=compact&bg_color=0D0D0D&border_color=FF007F&title_color=00FFFF&text_color=FFFFFF&cache_seconds=86400" height="170" alt="Top Languages" />
-</p>
-
+<!-- สถิติ Streak (ตัวนี้ทำงานได้แม้ไม่มี Repo) -->
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakoncha1&background=0D0D0D&border=FF007F&title=00FFFF&text=FFFFFF&dates=FFFFFF&fire=FF007F" height="170" alt="Streak Stats" />
 </p>
@@ -50,7 +45,7 @@
 
 <br>
 
-<!-- ปุ่มโซเชียลมีเดีย (ใช้สีโลโก้จริงให้เด่นชัด) -->
+<!-- ปุ่มโซเชียลมีเดีย -->
 <p>
   <a href="#">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
