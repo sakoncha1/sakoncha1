@@ -8,10 +8,9 @@
 <!-- ลูกเล่นข้อความพิมพ์ดีดอัตโนมัติ สีฟ้าไซอัน (แก้ URL ให้ทำงาน 100%) -->
 <p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Ola,+meu+nome+e+Sakoncha!;System+Analyst;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Github+Profile;Hello,+My+name+is+Deaw;I+aspire+to+become+a+Web+Developer" alt="Typing SVG" />
   </a>
 </p>
-
 <!-- ป้ายนับยอดวิวคนเข้าโปรไฟล์ สีชมพู Neon -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=sakoncha1&color=ff007f&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Visits" />
