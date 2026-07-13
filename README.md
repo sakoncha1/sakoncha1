@@ -1,5 +1,5 @@
 <!-- แบนเนอร์หัวเว็บแบบเคลื่อนไหว (คลื่นและดาวระยิบระยับ) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Sakoncha!&fontSize=70&fontColor=ffffff&animation=twinkling&desc=System%20Analyst&descSize=25&descColor=00ffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5&height=250&section=header&text=I'm%20Sakonchai&fontSize=80&fontColor=ffffff&animation=twinkling" width="100%" />
 
 <div align="center">
 
