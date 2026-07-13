@@ -70,10 +70,6 @@
 
 <br>
 
-<!-- ลิ้งก์เว็บไซต์ต่างๆ -->
-<p>
-  ♡ <a href="#">rentry</a> ✦ <a href="#">linktr.ee</a> ✦ <a href="#">carrd.co</a> ✦ <a href="#">notion</a> ♡
-</p>
 
 </details>
 
