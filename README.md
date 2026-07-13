@@ -35,12 +35,19 @@
 
 <br>
 
-<!-- ไอคอน Skills & Tools (โทน Dark ดูแพง) -->
+<!-- ไอคอน Skills & Tools -->
 ### 💻 Skills & Tools
 <p>
+  <!-- โปรแกรมที่มีในระบบ Skillicons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,git,python,cpp,ps,figma&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=js,css,html,cpp&theme=dark" alt="Skills" />
   </a>
+</p>
+<p>
+  <!-- โปรแกรมอื่นๆ ที่สร้างขึ้นมาเป็นป้ายเสริม -->
+  <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Apps Script" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
 </p>
 
 <br>
