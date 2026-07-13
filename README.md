@@ -1,71 +1,77 @@
 <div align="center">
-  <!-- Sci-Fi / Cyberpunk Header -->
-  <img src="https://i.pinimg.com/originals/2c/e5/cd/2ce5cd293c8d19760a92d04f29df5c49.gif" width="100%" style="border-radius: 20px;" alt="Futuristic Header">
 
-  <br><br>
+<p>システムアナリスト</p>
+<p>Olá, meu nome é Sakoncha !</p>
 
-  <!-- Typing Text ด้วยฟอนต์ล้ำๆ (Orbitron) -->
-  <a href="https://github.com/sakoncha1">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=INITIATING+SYSTEM...;ACCESS+GRANTED+:+sakoncha1;Frontend+Engineer;Building+Intuitive+Experiences+✨" alt="Typing SVG" />
-  </a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sakoncha1&color=blue&style=for-the-badge&label=PROFILE+VISITS" alt="Profile Visits" />
+</p>
+
+<!-- รูปแมวพิมพ์คีย์บอร์ด (สามารถเปลี่ยน link รูปได้ตามต้องการ) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="150" alt="typing cat" />
+
+<p>meow ♡</p>
+<p>Be welcome</p>
+
+<details>
+<summary><b>▼ More Info</b></summary>
+<br>
+
+<!-- ส่วนแสดงสถิติ GitHub (Stats Cards) -->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakoncha1&show_icons=true&theme=tokyonight&bg_color=010409&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakoncha1&layout=compact&theme=tokyonight&bg_color=010409&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" height="150" alt="Top Languages" />
 </div>
 
 <br>
 
-<!-- ป้ายบอกสถานะแบบ Dashboard -->
-<div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/LOCATION-Earth-0088FF?style=for-the-badge" alt="Location">
-  <img src="https://komarev.com/ghpvc/?username=sakoncha1&label=SYSTEM_VIEWS&color=00FF9C&style=for-the-badge" alt="Views">
+<!-- ส่วนแสดงสถิติ Streak (การเขียนโค้ดต่อเนื่อง) -->
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakoncha1&theme=tokyonight&background=010409&border=30363d&title=58a6ff&text=c9d1d9" height="150" alt="Streak Stats" />
 </div>
 
-<br>
+<br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🌐 **DEVELOPER MATRIX // SYSTEM LOGS**
-<table width="100%" style="border: none;">
-<tr style="border: none;">
-<td width="60%" style="border: none;">
-
-> **[ 2024 - PRESENT ]** 🟢 **Active Node**
-> - 🚀 **Role:** Full-Stack Developer
-> - 💻 **Focus:** Web Technologies, AI, and Innovation
-> - 🔄 **Status:** Compiling code and building the future...
->
-> **[ 2020 - 2024 ]** 🔵 **Training Simulator**
-> - 🎓 **Institution:** IT & Computer Science
-> - 🧠 **Knowledge:** Data Structures, Logic, Algorithms
->
-> **[ INITIALIZATION ]** ⚪ **Boot Sequence**
-> - 💡 **Origin:** First "Hello World" compiled successfully.
-
-</td>
-<td width="40%" style="border: none;" align="center">
-  <!-- ภาพลูกโลก 3D หมุนๆ -->
-  <img src="https://media.giphy.com/media/V83VnZ0p3Yf5fJbUv2/giphy.gif" alt="3D Globe" width="80%" style="border-radius: 10px;">
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🔮 **TOP LANGUAGES // CORE MODULES**
-<p align="center">
+<!-- ส่วนไอคอนทักษะและโปรแกรม -->
+### 💻 Skills & Tools
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,tailwind,nodejs,mongodb,docker,git&theme=dark&perline=10" />
+    <!-- สามารถลบหรือเพิ่มไอคอนได้ใน ?i= (คั่นด้วยลูกน้ำ) -->
+    <img src="https://skillicons.dev/icons?i=c,js,html,css,bootstrap,git,python,cpp,ps,figma&theme=dark" alt="Skills" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
-### 📈 **CONTRIBUTION GRAPH // ACTIVITY FEED**
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakoncha1&theme=tokyonight&hide_border=true&background=000000&ring=00FF9C&fire=0088FF&currStreakNum=00FF9C" width="60%">
-</div>
+<!-- ปุ่มโซเชียลมีเดีย (อย่าลืมเปลี่ยน Link ใน href="" ให้เป็นของคุณ) -->
+<p>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-010409?style=for-the-badge&logo=gmail&logoColor=white&labelColor=010409" />
+  </a>
+  <a href="https://instagram.com/your_username">
+    <img src="https://img.shields.io/badge/INSTAGRAM-010409?style=for-the-badge&logo=instagram&logoColor=white&labelColor=010409" />
+  </a>
+  <a href="https://discord.com/users/your_id">
+    <img src="https://img.shields.io/badge/DISCORD-010409?style=for-the-badge&logo=discord&logoColor=white&labelColor=010409" />
+  </a>
+  <a href="https://wa.me/your_number">
+    <img src="https://img.shields.io/badge/WHATSAPP-010409?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=010409" />
+  </a>
+  <a href="https://twitch.tv/your_username">
+    <img src="https://img.shields.io/badge/TWITCH-010409?style=for-the-badge&logo=twitch&logoColor=white&labelColor=010409" />
+  </a>
+  <a href="https://linkedin.com/in/your_username">
+    <img src="https://img.shields.io/badge/LINKEDIN-010409?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=010409" />
+  </a>
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=120&section=footer&text=CONNECTION_TERMINATED&fontSize=20&fontAlignY=75" />
+<!-- ลิ้งก์ส่วนตัวด้านล่าง (ใส่ลิ้งก์ของคุณลงใน href="" ได้เลย) -->
+<p>
+  ♡ <a href="https://rentry.co/">rentry</a> ✦ <a href="https://linktr.ee/">linktr.ee</a> ✦ <a href="https://carrd.co/">carrd.co</a> ✦ <a href="https://notion.so/">notion</a> ♡
+</p>
+
+</details>
+
 </div>
